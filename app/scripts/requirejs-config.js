@@ -5,7 +5,7 @@
 var requirejs = {
     "baseUrl": "scripts",
     "paths": {
-        'jquery': '../../bower_components/jquery/dist/jquery'
+        'jquery': '../../bower_components/jquery/jquery'
     },
     "shim": {
     }
