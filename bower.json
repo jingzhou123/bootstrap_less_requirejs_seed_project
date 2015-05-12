@@ -5,6 +5,7 @@
     "bootstrap": "~3.3.1",
     "modernizr": "~2.8.1",
     "requirejs": "~2.1.17",
-    "jquery": "^1.9"
+    "jquery": "^1.9",
+    "knockoutjs": "~3.3.0"
   }
 }
