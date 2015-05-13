@@ -6,7 +6,8 @@ requirejs.config({
     "baseUrl": "scripts",
     "paths": {
         'jquery': '../../bower_components/jquery/dist/jquery',
-        'ko': '../../bower_components/knockoutjs/dist/knockout'
+        'ko': '../../bower_components/knockoutjs/dist/knockout',
+        'text': '../../bower_components/requirejs-text/text'
     },
     "shim": {
     }
